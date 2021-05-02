@@ -1,1 +1,1 @@
-# algorithms
+# Prim's minimum spanning tree
